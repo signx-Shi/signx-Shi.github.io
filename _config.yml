@@ -6,9 +6,9 @@
 title: Coder's Life
 subtitle: code is future
 description:
-keywords:
+keywords: code programer linux golang share
 author: signx
-language:
+language: zh-cn
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
